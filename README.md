@@ -10,3 +10,4 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 
 We train a neuron network, containing 2 convolutional and 2 dense layers, to classify the images. Our best accuracy on the test dataset is ???. The loss and accuracy curves are presented below:
 
+*TODO: to use pre-train networks, to use GPU*
