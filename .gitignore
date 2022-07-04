@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 /cifar10_via_cnn/_data
+/dogs_cats_via_inception/_data
